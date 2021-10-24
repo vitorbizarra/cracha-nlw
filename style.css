@@ -54,6 +54,7 @@
     object-fit: cover;
   
     clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+    -webkit-clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
   }
   
   h1 {
@@ -70,6 +71,7 @@
   
     display: flex;
     gap: 0.75rem;
+    -webkit-gap: 0.75rem;
   
     justify-content: center;
     align-items: center;
@@ -87,6 +89,7 @@
   
     display: flex;
     gap: 0.5rem;
+    -webkit-gap: 0.5rem;
   
     justify-content: center;
   }
@@ -137,6 +140,7 @@
   
     display: flex;
     gap: 0.75rem;
+    -webkit-gap: 0.75rem;
   
     justify-content: center;
     align-items: center;
@@ -159,6 +163,7 @@
   
     display: flex;
     gap: 1rem;
+    -webkit-gap: 1rem;
   
     justify-content: center;
   }
@@ -248,6 +253,7 @@
   
     display: flex;
     gap: 0.75rem;
+    -webkit-gap: 0.75rem;
   
     justify-content: center;
     align-items: center;
@@ -265,6 +271,7 @@
   
     display: flex;
     gap: 0.5rem;
+    -webkit-gap: 0.5rem;
   
     justify-content: center;
   }
